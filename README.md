@@ -24,4 +24,12 @@ open this with http:://localhost:1999 on your postman.
 
 ## screenshot
 
-![https://github.com/fathoniwasesojatiTelkom/token_auth/blob/master/image/token.png](http)
+![alt text](https://github.com/fathoniwasesojatiTelkom/token_auth/blob/master/image/token.png)
+
+![alt text](https://github.com/fathoniwasesojatiTelkom/token_auth/blob/master/image/get.png)
+
+![alt text](https://github.com/fathoniwasesojatiTelkom/token_auth/blob/master/image/put.png)
+
+![alt text](https://github.com/fathoniwasesojatiTelkom/token_auth/blob/master/image/post.png)
+
+![alt text](https://github.com/fathoniwasesojatiTelkom/token_auth/blob/master/image/delete.png)
