@@ -24,4 +24,4 @@ open this with http:://localhost:1999 on your postman.
 
 ## screenshot
 
-![](http)
+![https://github.com/fathoniwasesojatiTelkom/token_auth/blob/master/image/token.png](http)
