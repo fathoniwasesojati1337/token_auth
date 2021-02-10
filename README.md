@@ -19,7 +19,7 @@ It will show output :
 Open http://localhost:1999
 ```
 
-open this with http:://localhost:3000 on your browser.
+open this with http:://localhost:1999 on your postman.
 
 
 ## screenshot
