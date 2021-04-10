@@ -1,7 +1,7 @@
 # Authentic Api
 Restfull api with node js + express js and token authentic for accessing with middleware. token -> /api/auth/token
 
-## Installitation
+## Installitation Reqirements
 
 ```
 npm install
