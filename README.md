@@ -1,4 +1,4 @@
-# Authentic Api
+# Rest API Auth Token
 Restfull api with node js + express js and token authentic for accessing with middleware. token -> /api/auth/token
 
 ## Installitation Reqirements
